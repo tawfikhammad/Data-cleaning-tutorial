@@ -2,7 +2,7 @@
 This repository contains code and resources related to handling data inconsistencies, parsing dates, data transformation techniques (log, sqrt, Box Cox), handling outliers, and imputation techniques.
 
 ---
-# Installation
+# Usage
 To use the code in this repository, follow these steps:
 
 * Clone the repository:
@@ -13,7 +13,7 @@ To use the code in this repository, follow these steps:
 
 -----
 
-# Usage
+# Content
 Here are some instructions on how to use the code and resources provided in this repository:
 
 [**Data Inconsistency**](https://github.com/tawfikhammad/Data-cleaning-tutorial/tree/main/Inconsistency): This section provides techniques and code snippets to identify and handle inconsistent data. Refer to Data Inconsistency for detailed information.
