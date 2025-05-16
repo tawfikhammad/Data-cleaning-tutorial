@@ -6,7 +6,7 @@ This repository contains code and resources related to handling data inconsisten
 To use the code in this repository, follow these steps:
 
 * Clone the repository:
-```git clone https://github.com/tawikhammad/data-cleaning.git```
+```git clone https://github.com/tawfikhammad/Data-cleaning-tutorial.git```
 
 * Install the required dependencies. Assuming you have Python and pip installed, run the following command:
 ```pip install -r requirements.txt ```
